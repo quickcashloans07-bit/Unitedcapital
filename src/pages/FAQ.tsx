@@ -34,7 +34,7 @@ const faqs = [
   },
   {
     question: "How much can I borrow?",
-    answer: "Loan amounts vary based on the type of loan and your qualifications. Personal loans typically range from $5,000 to $50,000, while business loans can go significantly higher based on business needs and capacity.",
+    answer: "Loan amounts vary based on the type of loan and your qualifications. Personal loans typically range from $1,000 to $10,000, startup loans from $10,000 to $25,000, and business loans from $25,000 to $100,000.",
   },
   {
     question: "What is your interest rate?",

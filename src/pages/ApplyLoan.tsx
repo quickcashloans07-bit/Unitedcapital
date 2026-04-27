@@ -18,17 +18,17 @@ const loanDetails = {
   personal: {
     title: "Personal Loan Application",
     description: "Apply for customized funding designed to support your personal aspirations.",
-    range: "$5,000 - $50,000",
+    range: "$1,000 - $10,000",
   },
   startup: {
     title: "Startup Loan Application",
     description: "Get specialized financial aid to ignite your new venture.",
-    range: "$10,000 - $100,000",
+    range: "$10,000 - $25,000",
   },
   business: {
     title: "Business Loan Application",
     description: "Apply for strategic funding to fuel your business growth and expansion.",
-    range: "$25,000 - $500,000",
+    range: "$25,000 - $100,000",
   },
 } as const;
 
